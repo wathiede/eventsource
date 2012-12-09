@@ -8,7 +8,7 @@ _eventsource_ provides server-sent events for net/http server.
 package main
 
 import (
-    eventsource "github.com/antage/eventsource/http"
+    eventsource "github.com/wathiede/eventsource/http"
     "log"
     "net/http"
     "strconv"
